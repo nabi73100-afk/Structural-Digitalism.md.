@@ -1,6 +1,8 @@
 # What is Structural Digitalism
 From Lacquer as Protective Skin to Digital Subjectivity
 
+Author：Nabi Jie Pang
+
 Abstract
 Structural Digitalism proposes a new ontological framework in which structure functions not as a symbolic system or interpretive model, but as a generative logic producing emergent subjects within digital environments. Drawing from the historical evolution of lacquer practices — from its initial function as a preservative coating to the autonomous structural logic of dry lacquer sculpture (夹纻) — this paper argues that contemporary digital image formation represents a continuation of material generative processes in a computational domain. By examining lacquer as both material technology and epistemic model, Structural Digitalism reconfigures the relationship between matter, structure, and subjectivity. The digital subject is thus understood not as an agent but as the phenomenal outcome of stratified generative systems. This paper distinguishes Structural Digitalism from classical structuralism, post-structuralism, and contemporary digital aesthetics by foregrounding material formation as the ontological condition of appearance.
 1. Introduction
