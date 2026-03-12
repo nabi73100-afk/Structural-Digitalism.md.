@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="images/header.png.jpg" width="700">
-</p>
 # What is Structural Digitalism
 From Lacquer as Protective Skin to Digital Subjectivity
 
